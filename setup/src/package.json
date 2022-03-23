@@ -1,0 +1,11 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "Proyecto de Questionario",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chema Torres <chemaaa94@gmail.com>",
+  "license": "MIT"
+}
